@@ -12,7 +12,7 @@ Experianced Service Manager
 
 A solutions driven professional with over 25 years of strong experience leading various teams and performing operational functions and managing projects of major national infrastructure programs within an operation centre environment in the Broadcast and Telecommunications sector. Posesses solid process management, administrative, and communication capabilities in addition to a strong track record of providing exceptional customer service. Enforces compliance with policies, procedures, regulations, and top-quality standards, Highly organised, able to manage complex workloads and exceed demanding targets against critical deadlines. Keen to kind a suitable Service Manager role that will fully utilise existing skills and experience and offer an opportunity for continued growth and development.
   ----------------------------------------------------------------------------------------------------------------
-                                        Areas of Expertise
+  Areas of Expertise
   ----------------------------------------------------------------------------------------------------------------
   -Service Transition Management         -Customer Service          -Strategic Planning
   -Service Operations                    -Conflict Management       -Charting Information
@@ -20,7 +20,7 @@ A solutions driven professional with over 25 years of strong experience leading 
   -Project Management                    -Staff Motivation          -Risk Management
   -Quality Assurance                     -Team Management           -End-User Documentation
   ----------------------------------------------------------------------------------------------------------------
-                                            Overview
+ Overview
  ------------------------------------------------------------------------------------------------------------------
  -25+ years of experience leading multiple tasks in the Broadcast and Telecommunications sector.
  -Proven team leader with exceptional ability to delegate, motivate and communicate with team members to exceed organisational objectives in terms of speed, efficiency and professionalism.
