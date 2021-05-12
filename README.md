@@ -14,7 +14,7 @@ A solutions driven professional with over 25 years of strong experience leading 
 
  Areas of Expertise
   -
-  - Service Transition Management          - Customer Service          - Strategic Planning
+  - Service Transition Management         <li> - Customer Service          - Strategic Planning
   - Service Operations                     - Conflict Management       - Charting Information
   - Operations Management                  - Handover Procedures       - Budget Management
   - Project Management                     - Staff Motivation          - Risk Management
