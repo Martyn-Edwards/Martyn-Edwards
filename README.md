@@ -22,9 +22,9 @@ A solutions driven professional with over 25 years of strong experience leading 
   
  Overview
  -
- - 25+ years of experience leading multiple tasks in the Broadcast and Telecommunications sector.
- - Proven team leader with exceptional ability to delegate, motivate and communicate with team members to exceed organisational objectives in terms of speed, efficiency and professionalism.
- - Possesses strong operating dynamics and the ability to meet and exceed project Key Performance Indicators. 
+<li>25+ years of experience leading multiple tasks in the Broadcast and Telecommunications sector.
+<li>Proven team leader with exceptional ability to delegate, motivate and communicate with team members to exceed organisational objectives in terms of speed, efficiency and professionalism.
+<li>Possesses strong operating dynamics and the ability to meet and exceed project Key Performance Indicators. 
  - Expert in defining the scope of projects based on gathered project requirements including documentation of constraints, assumptions, operational impacts & project risks.
  - Adept at planning and problem resolution; able to investigate and solve issues, including complex or long-standing matters; utilises a clear, logical mind with a practical approach, accompanied by excellent forecasting skills.
  - Improve service quality and minimise errors through performance evaluations, effectively identifying and targeting areas in need of changes.
