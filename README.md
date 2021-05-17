@@ -3,10 +3,11 @@
 - 🌱 I’m currently learning Amazon Web Services through the Re/start program, facilitated by TechTalent Academy
 
 - 📫 How to reach me Martyn Edwards on [LinkedIn](https://www.linkedin.com/in/martyn-edwards-025b601b8/)
+- 📫 How to reach me martyngedwards@yahoo.co.uk
 
 
 ----------------------------------------------------------------------------------------------------------------
-                                    07794 585056 | martyngedwards@yahoo.co.uk
+                                               
 
 Experianced Service Manager
 -
