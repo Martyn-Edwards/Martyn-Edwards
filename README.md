@@ -38,11 +38,11 @@ A solutions driven professional with over 25 years of strong experience leading 
  -
 TechTalent Academy									                                                                                                             	Apr 2021- Present
 AWS Re/Start Certified CLOUD PRACTITIONER TRAINING
-•	Introduction to Cloud Computing, Advantages of the Cloud, What is AWS? 
-•	Cloud Concepts, Security & Compliance, Technology, Billing & Pricing,
-•	Computing models, SaaS, IaaS, PaaS,
-•	Principle of Least Privilege, Shared Responsibility, Compute, Storage, Database, 
-•	Linux, Networking, IAM, AWS Applications, EC2, S3, Lambda, CloudFront, Route 53, Elastic Load Balancing, etc.  
+•	Introduction to Cloud Computing, Advantages of the Cloud, What is AWS?
+• Cloud Concepts, Security & Compliance, Technology, Billing & Pricing
+• Computing models, SaaS, IaaS, PaaS
+• Principle of Least Privilege, Shared Responsibility, Compute, Storage, Database
+• Linux, Networking, IAM, AWS Applications, EC2, S3, Lambda, CloudFront, Route 53, Elastic Load Balancing, etc
 
 
 
