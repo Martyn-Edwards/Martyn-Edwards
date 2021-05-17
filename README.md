@@ -36,7 +36,7 @@ A solutions driven professional with over 25 years of strong experience leading 
 
  Professional Experience
  -
-TechTalent Academy
+TechTalent Academy Apr 2021 - Present
 
  - AWS Re/Start Certified CLOUD PRACTITIONER TRAINING
  - Introduction to Cloud Computing, Advantages of the Cloud, What is AWS?
@@ -45,6 +45,12 @@ TechTalent Academy
  - Principle of Least Privilege, Shared Responsibility, Compute, Storage, Database
  - Linux, Networking, IAM, AWS Applications, EC2, S3, Lambda, CloudFront, Route 53, Elastic Load Balancing, etc
 
+Arqiva Limited Jan 2018 - Dec 2020
+
+ - Successfully functioned as the Service Transition lead between the Project team and Operations
+ - Coordinated initial review of business systems, administration, resources, procedures and methods to improve operationally and cost-effectivneww, utility and efficiency before transitioning
+ - Operated with multi-diciplined teams and provided a variety of service transition management functions, engineering and configuration services defined by business needs and end-user reuirements
+ - End to end configuration and testing of TCP/IP connected SNMP telemetry platforms
 
 
 
