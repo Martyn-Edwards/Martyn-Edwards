@@ -36,9 +36,22 @@ A solutions driven professional with over 25 years of strong experience leading 
 
  Professional Experience
  -
-TechTalent Academy Apr 2021 - Present
+boxxe Ltd	Sep 2021 – Present
+Service Delivery Manager
+- 
+- Proactively managing multiple external services in relation to Incident, Change and Problem.
+- Ensuring all services meet contractual SLA’s and service performance.
+- Ensuring that all services meet the expectations laid out in the Service Design documentation.
+- Compiling service information and conducting Service Reviews with customer stakeholders.
+- Working collaboratively with the Project Management team to ensure correct transition to BAU.
+- Advise on service processes, procedures, work instructions and knowledge articles.
+- Chair of the Change Advisory Board.
+- Continual Service Improvement.
 
- - AWS Re/Start Certified CLOUD PRACTITIONER TRAINING
+ 
+TechTalent Academy Apr 2021 - Jul 2021
+AWS Re/Start Certified CLOUD PRACTITIONER TRAINING
+ - 
  - Introduction to Cloud Computing, Advantages of the Cloud, What is AWS?
  - Cloud Concepts, Security & Compliance, Technology, Billing & Pricing
  - Computing models, SaaS, IaaS, PaaS
